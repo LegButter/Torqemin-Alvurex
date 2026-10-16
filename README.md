@@ -47,7 +47,7 @@ Suomessakin näkyy jatkuvasti sisältöjä, joissa tekoäly, automaatio, kaupank
 
 Tällaisissa keskusteluissa esiin nousevat usein nimet kuten:
 
-- - Vesa Vihriälä
+- Vesa Vihriälä
 - Karoliina Lindroos
 
 Se, että tällaisia nimiä näkyy artikkeleissa, videoissa tai keskusteluissa, joissa mainitaan myös **Torqemin Alvurex** tai **Torqemin Alvurex**, ei itsessään todista mitään suorasta yhteydestä. Yrityksille Suomessa olennaista on erottaa näkyvyys todellisesta arvosta. Käytännössä tämä tarkoittaa sitä, että huomio kohdistetaan pilotointiin, yhteensopivuuteen omien toimintamallien kanssa ja siihen, parantaako alusta oikeasti päätöksenteon laatua.
